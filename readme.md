@@ -4,9 +4,12 @@
 
 <a href="https://github.com/rafaelsaboiad/">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsaboiad&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="rafaelsaboiad :: Stats"/></a>
-<a href="https://github.com/rafaelsaboiad/">
-        <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=rafaelsaboiad&show_icons=true&theme=gruvbox&hide_border=true"/>
-        <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelsaboiad&theme=gruvbox&hide_border=true"/>
+		
+<p align="center">
+	<a href="https://github.com/rafaelsaboiad/">
+		<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=rafaelsaboiad&show_icons=true&theme=gruvbox&hide_border=true"/>
+		<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelsaboiad&theme=gruvbox&hide_border=true"/>
+</p>
 
 - 🔭 I’m searching for a internship to improve and develop my skills.
 
