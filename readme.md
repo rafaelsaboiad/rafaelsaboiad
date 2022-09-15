@@ -8,17 +8,19 @@
 
 - 🔭 I’m currently searching for a internship to develop my skills.
 
-- 🌱 I’m currently studying in University of Fortaleza <a href="https://unifor.br/web/guest/sobre-a-unifor" target="blank">(UNIFOR).</a> and, <a href="https://www.rocketseat.com.br/" target="blank">Rocketseat</a>.
+- 🌱 I’m currently studying analysis and systems development in University of Fortaleza <a href="https://unifor.br/web/guest/sobre-a-unifor" target="blank">(UNIFOR).</a> and general technologies at, <a href="https://www.rocketseat.com.br/" target="blank">Rocketseat</a>.
 
-- 🤝 I’m available for freelancing projects.
+- 🤝 Available for freelancing projects.
 
-- 🌱 I’m currently learning Scrum through <a href="https://www.scrumstudy.com" target="blank">SCRUMstudy™.</a> for applying to a SFC™ certificate.
+- 🌱 Currently learning Scrum through <a href="https://www.scrumstudy.com" target="blank">SCRUMstudy™.</a> for applying to a SFC™ certificate.
 
 - 📝 I regularly do side projects for fun with friends like <a href="https://github.com/emanuelvidall" target="blank">@emanuelvidall</a> and <a href="https://github.com/Kennethhellstrom" target="blank">@kennethhellstrom</a>, that you can find here on my git page.
 
-- 💬 Enthusiast of **financial and cryptocurrency markets.**
+- 💬 An enthusiast of **financial and cryptocurrency markets.**
 
-- 📫 How to reach me **rafaelsaboia5@hotmail.com**
+- 🎣 My favorite hobbies are: fishing, biking, running, enjoying nature and technology in general.
+
+- 📫 Reach me at **rafaelsaboia5@hotmail.com**
 
 - 📄 Know about my experiences <a href="https://github.com/" target="blank">Resume</a>
 <br/>
@@ -49,7 +51,7 @@
 
 </p>
 
-### Favorite Projects
+### My Favorite Projects
 
 
 
@@ -61,5 +63,5 @@
 
 ---
 
-(profile template edited from)
-[Saurabh Chavan](https://github.com/100rabhcsmc)
+(profile template edited from [Saurabh Chavan](https://github.com/100rabhcsmc))
+
