@@ -47,6 +47,7 @@
 		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
 					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
+	  <br>
 	  <p align="center"> <img src="https://komarev.com/ghpvc/?username=rafaelsaboiad&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelsaboiad" /> </p>
 
 </p>
