@@ -2,7 +2,8 @@
 <h3 align="center">Front End Developer & Former Urban Architect.</h3>
 <h3 align="center">I have a dream to work on something where I can use unlimited creativity in all aspects, real or not.</h3>
 
-https://github-readme-stats.vercel.app/api?username=rafaelsaboiad&show_icons=true
+<a href="https://github.com/rafaelsaboiad/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsaboiad&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="rafaelsaboiad :: Stats" /></a>
 
 - 🔭 I’m searching for a internship to improve and develop my skills.
 
