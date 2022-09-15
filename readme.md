@@ -6,13 +6,13 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently searching for a internship to develop my skills.
+- 🔭 I’m searching for a internship to improve and develop my skills.
 
-- 🌱 I’m currently studying analysis and systems development in University of Fortaleza <a href="https://unifor.br/web/guest/sobre-a-unifor" target="blank">(UNIFOR).</a> and general technologies at, <a href="https://www.rocketseat.com.br/" target="blank">Rocketseat</a>.
+- 🌱 Currently studying analysis and systems development in University of Fortaleza <a href="https://unifor.br/web/guest/sobre-a-unifor" target="blank">(UNIFOR).</a> and general technologies at, <a href="https://www.rocketseat.com.br/" target="blank">Rocketseat</a>.
 
 - 🤝 Available for freelancing projects.
 
-- 🌱 Currently learning Scrum through <a href="https://www.scrumstudy.com" target="blank">SCRUMstudy™.</a> for applying to a SFC™ certificate.
+- 🌱 Learning Scrum through <a href="https://www.scrumstudy.com" target="blank">SCRUMstudy™.</a> for applying to a SFC™ certificate.
 
 - 📝 I regularly do side projects for fun with friends like <a href="https://github.com/emanuelvidall" target="blank">@emanuelvidall</a> and <a href="https://github.com/Kennethhellstrom" target="blank">@kennethhellstrom</a>, that you can find here on my git page.
 
