@@ -2,20 +2,17 @@
 <h3 align="center">Front End Developer & Former Urban Architect.</h3>
 <h3 align="center">I have a dream to work on something where I can use unlimited creativity in all aspects, real or not.</h3>
 
-
-
-
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+- 🔭 I’m currently searching for a internship to develop my skills .
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- 🌱 I’m currently studying in University of Fortaleza <a href="https://unifor.br/web/guest/sobre-a-unifor" target="blank">(UNIFOR)</a>
 
-- 🤝 I’m available for freelancing.
+- 🤝 I’m available for freelancing projects.
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 🌱 I’m currently learning Scrum through <a href="https://www.scrumstudy.com" target="blank">SCRUMstudy</a>
 
 - 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
 
