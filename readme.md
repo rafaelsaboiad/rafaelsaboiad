@@ -6,21 +6,21 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently searching for a internship to develop my skills .
+- 🔭 I’m currently searching for a internship to develop my skills.
 
-- 🌱 I’m currently studying in University of Fortaleza <a href="https://unifor.br/web/guest/sobre-a-unifor" target="blank">(UNIFOR)</a>
+- 🌱 I’m currently studying in University of Fortaleza <a href="https://unifor.br/web/guest/sobre-a-unifor" target="blank">(UNIFOR).</a> and, <a href="https://www.rocketseat.com.br/" target="blank">Rocketseat</a>.
 
 - 🤝 I’m available for freelancing projects.
 
-- 🌱 I’m currently learning Scrum through <a href="https://www.scrumstudy.com" target="blank">SCRUMstudy</a>
+- 🌱 I’m currently learning Scrum through <a href="https://www.scrumstudy.com" target="blank">SCRUMstudy™.</a> for applying to a SFC™ certificate.
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+- 📝 I regularly do side projects for fun with friends like @emanuelvidall and @kennethhellstrom, that you can find here on my git page.
 
-- 💬 Ask me about **Reactjs & React-Native**
+- 💬 Enthusiast of **financial and cryptocurrency markets.**
 
-- 📫 How to reach me **saurabhchavan052@gmail.com**
+- 📫 How to reach me **rafaelsaboia5@hotmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://github.com/" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
