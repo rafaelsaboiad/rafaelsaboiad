@@ -10,9 +10,11 @@
 		<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelsaboiad&theme=gruvbox&hide_border=true"/>
 </p>
 
-<a align = "center" href="https://github.com/rafaelsaboiad/">
+<p align="center">
+	<a href="https://github.com/rafaelsaboiad/">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsaboiad&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="rafaelsaboiad :: Stats"/></a>
-
+</p>
+		
 - 🔭 I’m searching for a internship to improve and develop my skills.
 
 - 🌱 Currently studying analysis and systems development in University of Fortaleza <a href="https://unifor.br/web/guest/sobre-a-unifor" target="blank">(UNIFOR).</a> and general technologies at, <a href="https://www.rocketseat.com.br/" target="blank">Rocketseat</a>.
