@@ -1,20 +1,7 @@
 <h1 align="center">Hello! I'm Rafael Saboia Dubanhevitz</a></h1>
 <h3 align="center">Front End Developer & Former Urban Architect.</h3>
 <h3 align="center">I have a dream to work on something where I can use unlimited creativity in all aspects, real or not.</h3>
-
-
-		
-<p align="center">
-	<a href="https://github.com/rafaelsaboiad/">
-		<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=rafaelsaboiad&show_icons=true&theme=gruvbox&hide_border=true"/>
-		<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelsaboiad&theme=gruvbox&hide_border=true"/>
-</p>
-
-<p align="center">
-	<a href="https://github.com/rafaelsaboiad/">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsaboiad&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="rafaelsaboiad :: Stats"/></a>
-</p>
-		
+	
 - 🔭 I’m searching for a internship to improve and develop my skills.
 
 - 🌱 Currently studying analysis and systems development in University of Fortaleza <a href="https://unifor.br/web/guest/sobre-a-unifor" target="blank">(UNIFOR).</a> and general technologies at, <a href="https://www.rocketseat.com.br/" target="blank">Rocketseat</a>.
@@ -61,8 +48,17 @@
 - [OSF Digital Summer Internship | 1920 x 1080 E-commerce model(**Deployed**)](https://github.com/rafaelsaboiad/OSF-Summer-Internship)
 - [Copy of UNIFOR login page, with a theme switcher(**Deployed**)](https://github.com/rafaelsaboiad/theme-switcher-practice)
 
+<p align="center">
+	<a href="https://github.com/rafaelsaboiad/">
+		<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=rafaelsaboiad&show_icons=true&theme=gruvbox&hide_border=true"/>
+		<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelsaboiad&theme=gruvbox&hide_border=true"/>
+</p>
 
----
+<p align="center">
+	<a href="https://github.com/rafaelsaboiad/">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsaboiad&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="rafaelsaboiad :: Stats"/></a>
+</p>
+
 
 (profile template edited from [Saurabh Chavan](https://github.com/100rabhcsmc))
 
