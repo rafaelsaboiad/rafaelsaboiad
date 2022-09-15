@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning Scrum through <a href="https://www.scrumstudy.com" target="blank">SCRUMstudy™.</a> for applying to a SFC™ certificate.
 
-- 📝 I regularly do side projects for fun with friends like @emanuelvidall and @kennethhellstrom, that you can find here on my git page.
+- 📝 I regularly do side projects for fun with friends like <a href="https://github.com/emanuelvidall" target="blank">@emanuelvidall</a> and <a href="https://github.com/Kennethhellstrom" target="blank">@kennethhellstrom</a>, that you can find here on my git page.
 
 - 💬 Enthusiast of **financial and cryptocurrency markets.**
 
@@ -49,17 +49,17 @@
 
 </p>
 
-### Blogs posts
+### Favorite Projects
 
-<!-- BLOG-POST-LIST:START -->
 
-- [Download Instagram profile picture using python](https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j)
-- [Convert a image to sketch using python](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1)
-- [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
-<!-- BLOG-POST-LIST:END -->
+
+- [A metereological data science project, from National Institute of Meteorology spreadsheets(**Paused**)](https://github.com/rafaelsaboiad/rainy-project)
+- [A Game Of Thrones consume API test (**Deployed**)](https://github.com/rafaelsaboiad/gotapitest)
+- [OSF Digital Summer Internship | 1920 x 1080 E-commerce model(**Deployed**)](https://github.com/rafaelsaboiad/OSF-Summer-Internship)
+- [Copy of UNIFOR login page, with a theme switcher(**Deployed**)](https://github.com/rafaelsaboiad/theme-switcher-practice)
+
 
 ---
 
-Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
-
-Last Edited on: 08/08/2022
+(profile template edited from)
+[Saurabh Chavan](https://github.com/100rabhcsmc)
