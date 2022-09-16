@@ -60,5 +60,3 @@
 </p>
 
 
-(profile template edited from [Saurabh Chavan](https://github.com/100rabhcsmc))
-
