@@ -4,7 +4,7 @@
 	
 - 🔭 I’m searching for a internship to improve and develop my skills.
 
-- 🌱 Currently studying analysis and systems development in University of Fortaleza <a href="https://unifor.br/web/guest/sobre-a-unifor" target="blank">(UNIFOR).</a> and general technologies at, <a href="https://www.rocketseat.com.br/" target="blank">Rocketseat</a>.
+- 🌱 Currently studying analysis and systems development in University of Fortaleza <a href="https://unifor.br/web/guest/sobre-a-unifor" target="blank">(UNIFOR).</a> and general technologies at, <a href="https://www.rocketseat.com.br/" target="blank">Rocketseat</a> and front end content at <a href="https://www.origamid.com" target="blank">Origamid</a>.
 
 - 🤝 Available for freelancing projects.
 
