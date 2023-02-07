@@ -8,7 +8,7 @@
 
 - 🤝 Available for freelancing projects.
 
-- 🌱 <a href="https://www.scrumstudy.com" target="blank">SCRUMstudy™.</a> | SFC™ certificated.
+- 🌱 <a href="https://www.scrumstudy.com" target="blank">SCRUMstudy™.</a> | Scrum Fundamentals Certified - SFC™ certificated.
 
 - 📝 I regularly do side projects for fun with friends like <a href="https://github.com/emanuelvidall" target="blank">@emanuelvidall</a> and <a href="https://github.com/Kennethhellstrom" target="blank">@kennethhellstrom</a>, that you can find here on my git page.
 
