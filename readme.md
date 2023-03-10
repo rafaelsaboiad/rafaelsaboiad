@@ -14,7 +14,7 @@
 
 - 💬 An enthusiast of **financial and cryptocurrency markets.**
 
-- 🎣 My favorite hobbies are: fishing, biking, running, enjoying nature and technology in general.
+- 🎣 My favorite hobbies are: fishing, bike, run, crossfit, enjoying nature and technology in general.
 
 - 📫 Reach me at **rafaelsaboia5@hotmail.com**
 
