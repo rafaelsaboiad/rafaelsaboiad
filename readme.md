@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Rafael Saboia Dubanhevitz</a></h1>
-<h3 align="center">Front End Developer & Former Urban Architect.</h3>
+<h3 align="center">Front End Developer & UI / UX.</h3>
 <h3 align="center">I have a dream to work on something where I can use unlimited creativity in all aspects, real or not.</h3>
 	
 - 🔭 I’m searching for my first job to contribute, improve and develop my skills.
