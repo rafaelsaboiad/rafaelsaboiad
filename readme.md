@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Rafael Saboia Dubanhevitz</a></h1>
-<h3 align="center">Front End Developer & UI / UX.</h3>
+<h3 align="center">Front End Developer & Former Urban Architect.</h3>
 <h3 align="center">I have a dream to work on something where I can use unlimited creativity in all aspects, real or not.</h3>
 	
 - 🔭 I’m searching for my first job to contribute, improve and develop my skills.
@@ -18,7 +18,7 @@
 
 - 📫 Reach me at **rafaelsaboia5@hotmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/rafaelsaboiad/rafaelsaboiad/blob/main/rafaeldubanhevitzCVgit.jpg" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://github.com/rafaelsaboiad/rafaelsaboiad/blob/main/Aa%20-%20Rafael%20Saboia%20Dubanhevitz%20(resized).png" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
