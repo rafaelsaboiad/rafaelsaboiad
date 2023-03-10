@@ -2,7 +2,7 @@
 <h3 align="center">Front End Developer & Former Urban Architect.</h3>
 <h3 align="center">I have a dream to work on something where I can use unlimited creativity in all aspects, real or not.</h3>
 	
-- 🔭 I’m searching for a internship to improve and develop my skills.
+- 🔭 I’m searching for my first job to contribute, improve and develop my skills.
 
 - 🌱 Currently studying analysis and systems development in University of Fortaleza <a href="https://unifor.br/web/guest/sobre-a-unifor" target="blank">(UNIFOR). </a> General technologies at, <a href="https://www.rocketseat.com.br/" target="blank">Rocketseat</a> and front end content at <a href="https://www.origamid.com" target="blank">Origamid</a>.
 
